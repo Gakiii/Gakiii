@@ -14,16 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```python
-const klee = new Klee();
+
+- 🔭 I’m a graduate student
+- 🌱 I’m currently learning JAVA/GO/JS
+- 📫 How to reach me: edu email or gmail 
+```java
+Person gakiii = new Gakii();
 
 while(true) {
-  try {
-    klee.bouncingBomb💣('🐟');
-  } catch(error) {
-    console.log(error.message); // Error caught by Jean.
-    klee.isInPrison(); // true
-    await klee.release();
-  }
+  gakiii.getUp("9:30");
+  gakiii.eatBreakfast("9:45");
+  gakiii.readpaper("10:30");
+  gakiii.eadLunch("12:30");
+  gakiii.code("13:30");
+  gakiii.eatDinner("17:30");
+  gakiii.exercise("20:00");
+  gakiii.relaxAndSleep("22:00");
 }
 ```
