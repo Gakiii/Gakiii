@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```python
+const klee = new Klee();
+
+while(true) {
+  try {
+    klee.bouncingBomb💣('🐟');
+  } catch(error) {
+    console.log(error.message); // Error caught by Jean.
+    klee.isInPrison(); // true
+    await klee.release();
+  }
+}
+```
